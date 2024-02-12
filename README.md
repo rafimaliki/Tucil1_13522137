@@ -15,7 +15,7 @@ This program will help you find the best sollution for Cyberpunk 2077 Instant Br
 
 ## Starting Program
 
-You can run this program dirrecly on [https://cyberpunk2024.vercel.app/](https://cyberpunk2024.vercel.app/) or run this program locally.
+You can run this program directly on [https://cyberpunk2024.vercel.app/](https://cyberpunk2024.vercel.app/) or run this program locally.
 
 To run this project's development server on [http://localhost:5173/](http://localhost:5173/) you need [Node.js](https://nodejs.org/en/download) pre installed on your device, after that run:
 
